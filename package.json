@@ -1,0 +1,8 @@
+{
+  "name": "eigenlayer-restaking-module",
+  "version": "1.0.0",
+  "description": "Restaking and delegation logic",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
